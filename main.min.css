@@ -1,0 +1,53 @@
+.item,
+.list ul li,
+.logo {
+  float: left;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.countiner {
+  width: 80%;
+  margin: auto;
+}
+a {
+  text-decoration: none;
+}
+.clr {
+  clear: both;
+}
+.navebar {
+  background-color: #000;
+}
+.logo {
+  margin-top: 5px;
+}
+.logo img {
+  width: 50%;
+}
+.navebar .list {
+  float: right;
+  margin-top: 5px;
+}
+.list ul {
+  list-style-type: none;
+}
+.list a {
+  color: #fff;
+  margin-left: 15px;
+  text-transform: uppercase;
+}
+.portfolio {
+  text-align: center;
+  background-color: #fff8dc;
+}
+.item {
+  width: 33.33%;
+  padding-left: 20px;
+}
+.portfolio img {
+  display: block;
+  width: 100%;
+}
